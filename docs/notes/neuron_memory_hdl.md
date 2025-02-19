@@ -1,4 +1,7 @@
-
+---
+title: Neuron Memory
+parent: Notes
+---
 ```vhdl
 entity neuron_memory is
     port (
